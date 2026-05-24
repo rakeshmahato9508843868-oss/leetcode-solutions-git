@@ -7,4 +7,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3110-score-of-a-string](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/3110-score-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
