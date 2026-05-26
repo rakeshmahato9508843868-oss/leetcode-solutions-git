@@ -12,4 +12,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3110-score-of-a-string](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/3110-score-of-a-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
