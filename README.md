@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2469-convert-the-temperature](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/2469-convert-the-temperature/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
