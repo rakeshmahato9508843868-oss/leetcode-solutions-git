@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [3110-score-of-a-string](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/3110-score-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Prefix Sum
