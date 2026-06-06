@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2469-convert-the-temperature](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/2652-sum-multiples/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
