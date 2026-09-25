@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/0020-valid-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2942-find-words-containing-character](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/2942-find-words-containing-character/) | Easy |
@@ -47,4 +48,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/0001-two-sum/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rakeshmahato9508843868-oss/leetcode-solutions-git/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
